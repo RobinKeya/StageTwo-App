@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stage-Two</string>
+    <string name="home">Home</string>
+    <string name="edit">Edit</string>
+    <string name="name">Robinson Chemaimak</string>
+    <string name="my_git">RobinKeya</string>
+    <string name="apply">Apply</string>
+    <string name="bio">Bio</string>
+</resources>
